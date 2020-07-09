@@ -1,0 +1,13 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: featured_image
+  label: featured_image
