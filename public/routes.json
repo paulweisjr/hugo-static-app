@@ -1,10 +1,5 @@
 {
-    "routes": [
-      {
-        "route": "/",
-        "allowedRoles": ["authenticated"]
-      }
-    ],
+    
     "platformErrorOverrides": [
       {
         "errorType": "NotFound",
